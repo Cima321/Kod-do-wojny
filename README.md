@@ -69,6 +69,7 @@ end
 
 disp('Wcisniej spacje by przejsc do kolejnego rozdania') 
 pause
+disp('Koniec rozgrywki, dziekuje, do widzenia')
 
 end
 
